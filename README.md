@@ -1,5 +1,9 @@
 # BitMEX Market Maker
 
+Bitmex api bağlantısı ile sıralı al sat işlemleri yapabileceğiniz bot yazılımı. Local server yada vps üzerinde kullanıma uygundur.
+
+Ayrıntılı kurulum için bilgi alabilirsiniz.
+
 This is a sample market making bot for use with [BitMEX](https://www.bitmex.com).
 
 It is free to use and modify for your own strategies. It provides the following:
